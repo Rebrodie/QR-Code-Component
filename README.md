@@ -2,15 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
 ## Overview
 
 ### Screenshot
@@ -23,20 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](assets/design/Mobile-View.jpeg)
 
-### Links
+### Demo
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt](https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt)
+- Live Site URL: [https://rebrodie.github.io/QR-Code-Component/](https://rebrodie.github.io/QR-Code-Component/)
 
-## My process
+## Follow Me
 
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Frontend Mentor - [@cripsenpai](https://www.frontendmentor.io/profile/cripsenpai)
+- Youtube - [@RebrodieCode](https://www.youtube.com/channel/UCV3pxcx9ALp99txTD6KF3Wg)
+- Twitter - [@Rebrodiecode](https://twitter.com/rebrodiecode)
+- Frontend Mentor - [@Rebrodie](https://www.frontendmentor.io/profile/Rebrodie)
