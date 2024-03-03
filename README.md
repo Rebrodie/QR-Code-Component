@@ -14,10 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](assets/design/Mobile-View.jpeg)
 
-### Demo
+### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt](https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt)
-- Live Site URL: [https://rebrodie.github.io/QR-Code-Component/](https://rebrodie.github.io/QR-Code-Component/)
+- Solution: [https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt](https://www.frontendmentor.io/solutions/qr-code-component-oPngYIsNwt)
+- Live Site: [https://rebrodie.github.io/QR-Code-Component/](https://rebrodie.github.io/QR-Code-Component/)
+- Process: [https://www.youtube.com/watch?v=6r028goKeb4&t](https://www.youtube.com/watch?v=6r028goKeb4&t)
 
 ## Follow Me
 
